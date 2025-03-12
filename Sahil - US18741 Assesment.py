@@ -107,5 +107,5 @@ def main():
     #Print the receipt.
     print_receipt(selected_spacecraft, hire_duration, pilot_needed, total_cost, passengers)
 
-#Start the program.
+#Restart the program.
 main()
